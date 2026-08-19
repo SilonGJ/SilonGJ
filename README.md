@@ -2,4 +2,5 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=SilonGJ&layout=compact&langs_count=4&disable_animations=true&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=SilonGJ&layout=compact&langs_count=4&disable_animations=true&theme=github_dark)
 
 > 这里是 **孤久きりのなか (SilonGJ)**  
-> 有关更多内容，请移步 [📖 我的博客](https://zcx0217.qzz.io)
+> 有关更多内容，请移步 [我的博客](https://zcx0217.qzz.io)
+> 下方为仓库内容及个人历史
