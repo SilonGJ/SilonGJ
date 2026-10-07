@@ -3,7 +3,7 @@
 
 <div align="center">
 
-**你好! ヽ(✿ﾟ▽ﾟ)ノ**  
+**你好! (๑˃̵ᴗ˂̵)**  
 **这里是 孤久きりのなか (SilonGJ)**  
 
 ![GitHub Stats](github-metrics.svg)  
