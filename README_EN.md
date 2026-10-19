@@ -10,5 +10,5 @@
 
 <div align="left">
 
-> For more information, please visit [SilonGJ's personal website](https://www.zcx0217.qzz.io)  
+> For more information, please visit [SilonGJ's personal website](https://silongj.us.ci/)  
 > Below is the repository content and personal history
